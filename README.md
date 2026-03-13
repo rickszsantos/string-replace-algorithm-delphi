@@ -73,5 +73,5 @@ Este projeto foi desenvolvido como exercício para demonstrar:
 
 ## Autor 
 
-Rick Santos 
+carlos henrique dos Santos 
 Estudante de Análise e Desenvolvimento de Sistemas 
